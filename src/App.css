@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.controls-bar {
+  position: absolute;
+  width: 60vw;
+  height: 15vh;
+  bottom: 3vh;
+  z-index: 1001;
+}
+
+.plane {
+  position: absolute;
+  background-color: rgba(10,10,10,1);
+  width: 100vw;
+  height: 55vh;
+  bottom: 0;
+  background-image: linear-gradient(180deg, rgba(2,2,2, 1) 10%, rgba(20,20,20,.5) 19%, rgba(20,20,20,1) 100%);
+}
+
+.Car-view {
+  position: relative;
+  background-color: rgba(2,2,2,1);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Map-shadow {
+  background-color: transparent;
+  position: absolute;
+  height: 50vh;
+  width: 25vw;
+  overflow: hidden;
+  right: 0;
+  top: 0;
+  content: '';
+  z-index: 999;
+  background-image: linear-gradient(10deg, rgba(2,2,2,1) 0%, rgba(2,2,2,.5) 19%, rgba(2,2,2,0) 20%), linear-gradient(75deg, rgba(2,2,2,1) 0%, rgba(2,2,2,.5) 19%, rgba(2,2,2,0) 40%);
+}
+
+.Mini-map {
+  position: absolute;
+  height: 50vh;
+  width: 25vw;
+  overflow: hidden;
+  right: 0;
+  top: 0;
+}
+
+.leaflet-control-attribution {
+  position: fixed !important;
+  right: 0 !important;
+  bottom: 0 !important;
+}
+
+#container3D {
+  position: absolute;
+  z-index: 1000;
+  background: radial-gradient(circle, rgba(205,205,205,0.2) 10%, rgba(2,2,2,0) 40%);
+}
+
+.App-link {
+  position: absolute;
+  bottom: 0;
+  color: #61dafb;
+  font-size: 10px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	2022 Tesla Model S Plaid
+* source:	https://sketchfab.com/3d-models/2022-tesla-model-s-plaid-d55cd7890b38470bb00a244ec6bea813
+* author:	@ShreyanshChaurasia_13 (https://sketchfab.com/shreyanshchaurasia13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2022 Tesla Model S Plaid" (https://sketchfab.com/3d-models/2022-tesla-model-s-plaid-d55cd7890b38470bb00a244ec6bea813) by @ShreyanshChaurasia_13 (https://sketchfab.com/shreyanshchaurasia13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
