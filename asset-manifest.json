@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car-overview-react/static/css/main.5ecc1926.css",
+    "main.js": "/car-overview-react/static/js/main.cbe2e4a9.js",
+    "static/js/453.01c2ae6a.chunk.js": "/car-overview-react/static/js/453.01c2ae6a.chunk.js",
+    "index.html": "/car-overview-react/index.html",
+    "main.5ecc1926.css.map": "/car-overview-react/static/css/main.5ecc1926.css.map",
+    "main.cbe2e4a9.js.map": "/car-overview-react/static/js/main.cbe2e4a9.js.map",
+    "453.01c2ae6a.chunk.js.map": "/car-overview-react/static/js/453.01c2ae6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecc1926.css",
+    "static/js/main.cbe2e4a9.js"
+  ]
+}
